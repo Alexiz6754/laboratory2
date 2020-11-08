@@ -1,0 +1,2 @@
+Main-Class: com.alex.Main
+Class-Path: Pokemon.jar
